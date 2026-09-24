@@ -1,6 +1,6 @@
 <p align="center">
   <img src="ImageMap.png" alt="ImageMap Android" width="900">
-</p>#ImageMap Android
+</p># ImageMap Android
 
 An Android tool for converting images into Minecraft Bedrock map art.
 
