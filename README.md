@@ -73,13 +73,13 @@ Hive Games OSS
 
 ImageMap Android uses LevelDB-MCPE-Java for working with Minecraft Bedrock world database data.
 
-Repository: "HiveGamesOSS/leveldb-mcpe-java"
+Repository: "https://GitHub.com/HiveGamesOSS/leveldb-mcpe-java"
 
 Tryashtar
 
 ImageMap Android was inspired by Image Map, the Windows/PC project by Tryashtar.
 
-Original repository: "Tryashtar/image-map"
+Original repository: "https://github.com/Tryashtar/image-map"
 
 ImageMap Android is an independently developed Android application and does not reuse the original project's C# source code.
 
