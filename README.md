@@ -1,24 +1,25 @@
 <p align="center">
   <img src="ImageMap.png" alt="ImageMap Android" width="900">
 </p>
+
 # ImageMap-Android
 
 An Android tool for converting images into Minecraft Bedrock map art.
 
 ImageMap Android works with Minecraft Bedrock world data to generate map art from an image.
 
-Download
+## Download
 
 Download the latest APK from the Releases section of this repository.
 
-Requirements
+## Requirements
 
 - Android device
 - Minecraft Bedrock Edition
 - A Minecraft Bedrock world
 - Sufficient storage and memory for the selected map-art size
 
-How to Use
+## How to Use
 
 1. Create a folder named "Image Map" inside your Downloads folder.
 2. Copy or move the Minecraft world you want to use into "Downloads/Image Map/".
@@ -31,17 +32,17 @@ How to Use
 9. After generating map art, move the world folder back to the appropriate Minecraft worlds directory.
 10. Open the world in Minecraft.
 
-⚠️ Important
+## ⚠️ Important
 
 Back up your world before using the app.
 
 The app works directly with world data, so keeping a backup is strongly recommended.
 
-Map-Art Size & Performance
+## Map-Art Size & Performance
 
 ImageMap Android does not impose a fixed maximum map-art size.
 
-However, this does not mean that extremely large map arts, such as hundreds or thousands of maps—or hundreds of thousands of maps—can be generated without performance issues.
+However, this does not mean that extremely large map arts — hundreds or thousands of maps, or more — can be generated without performance issues.
 
 Larger map-art dimensions require significantly more:
 
@@ -60,7 +61,7 @@ Very large map arts may cause:
 
 The practical maximum size depends on the device and the amount of available resources.
 
-Built in Java
+## Built in Java
 
 ImageMap Android is built using:
 
@@ -68,36 +69,36 @@ ImageMap Android is built using:
 - Android SDK
 - Gradle
 
-Credits
+## Credits
 
-Hive Games OSS
+### Hive Games OSS
 
 ImageMap Android uses LevelDB-MCPE-Java for working with Minecraft Bedrock world database data.
 
-Repository: "https://GitHub.com/HiveGamesOSS/leveldb-mcpe-java"
+Repository: [HiveGamesOSS/leveldb-mcpe-java](https://github.com/HiveGamesOSS/leveldb-mcpe-java)
 
-Tryashtar
+### Tryashtar
 
 ImageMap Android was inspired by Image Map, the Windows/PC project by Tryashtar.
 
-Original repository: "https://github.com/Tryashtar/image-map"
+Original repository: [Tryashtar/image-map](https://github.com/Tryashtar/image-map)
 
 ImageMap Android is an independently developed Android application and does not reuse the original project's C# source code.
 
-Third-Party Software
+## Third-Party Software
 
 ImageMap Android uses third-party software under its respective licenses.
 
-See ""THIRD_PARTY_NOTICES.md"" (THIRD_PARTY_NOTICES.md) for attribution and license information.
+See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for attribution and license information.
 
 LevelDB-MCPE-Java is licensed under the Apache License, Version 2.0.
 
-Disclaimer
+## Disclaimer
 
 ImageMap Android is an independent third-party application and is not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft.
 
 Always keep a backup of important Minecraft worlds before working with their data.
 
-Releases
+## Releases
 
 The latest APK is available in the repository's Releases section.
